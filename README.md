@@ -87,6 +87,8 @@ The [Research-Quality Writing Benchmark](docs/research-quality-writing-benchmark
 
 See the [six-skill capability report](docs/rqwb-capability-report/README.md) for a documented-scope comparison, task-fit matrix, figure set, and the evidence still needed before making any performance claim.
 
+The [communication guide](docs/rqwb-communication-guide.md) provides recommended terminology, a LinkedIn post draft, and an evidence-aware article outline.
+
 ## License
 
 This project is released under the MIT License.
