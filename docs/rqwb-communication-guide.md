@@ -20,9 +20,9 @@ AI-assisted writing does not become better by replacing a few suspicious words.
 The harder problem is that an AI draft can be grammatically correct yet scientifically thin, repetitive, overqualified, or difficult for a real reader to follow. I have been assembling a six-skill workflow for **research-quality writing**: writing that helps readers understand the problem, evidence, mechanism, limitation, and conclusion.
 
 1. [Academic Research Skills](https://github.com/Imbad0202/academic-research-skills) provides the broad research-to-publication workflow.
-2. [Mechanical Engineering Research](https://github.com/hanhuark/mechanical-engineering-research-skill/tree/main/skills/mechanical-engineering-research) adds domain judgment: physics, assumptions, validity ranges, methods, and uncertainty.
+2. [Mechanical Engineering Research](https://github.com/hanhuark/mechanical-engineering-research-skill/tree/main/skills/mechanical-engineering-research) is the domain coordinator: it adds physics, assumptions, validity ranges, methods, and uncertainty, and routes focused work to specialist skills.
 3. [Research Writing and Literature](https://github.com/hanhuark/mechanical-engineering-research-skill/tree/main/skills/research-writing-literature) focuses on narrative logic, literature synthesis, equation explanation, and figure discussion.
-4. [Reviewer-Author Loop](https://github.com/hanhuark/reviewer-author-loop-skill) supports critique, revision, verification, and re-review.
+4. [Reviewer-Author Loop](https://github.com/hanhuark/reviewer-author-loop-skill) supports critique, revision, verification, and re-review; it is also one of the specialist workflows that Mechanical Engineering Research can invoke.
 5. [Avoid AI Writing](https://github.com/conorbronsdon/avoid-ai-writing) flags patterns for contextual review without treating them as proof of authorship.
 6. [Clarity](https://github.com/addyosmani/clarity) asks the most important question: will a real reader understand the point?
 
