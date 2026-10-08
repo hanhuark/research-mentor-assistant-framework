@@ -1,0 +1,96 @@
+{
+  "score_definition": {
+    "0": "Not an intended function",
+    "1": "Supporting guidance",
+    "2": "Primary function",
+    "3": "Explicit workflow or verification gate"
+  },
+  "skills": [
+    {
+      "id": "ARS",
+      "name": "Academic Research Skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "role": "End-to-end academic workflow scaffold"
+    },
+    {
+      "id": "MER",
+      "name": "Mechanical Engineering Research",
+      "url": "https://github.com/hanhuark/mechanical-engineering-research-skill/tree/main/skills/mechanical-engineering-research",
+      "role": "Domain coordinator and scientific-integrity gate"
+    },
+    {
+      "id": "RWL",
+      "name": "Research Writing and Literature",
+      "url": "https://github.com/hanhuark/mechanical-engineering-research-skill/tree/main/skills/research-writing-literature",
+      "role": "Technical narrative, literature, and argument layer"
+    },
+    {
+      "id": "RAL",
+      "name": "Reviewer-Author Loop",
+      "url": "https://github.com/hanhuark/reviewer-author-loop-skill",
+      "role": "Iterative critique, revision, and verification"
+    },
+    {
+      "id": "AAW",
+      "name": "Avoid AI Writing",
+      "url": "https://github.com/conorbronsdon/avoid-ai-writing",
+      "role": "Pattern-aware, source-preserving edit"
+    },
+    {
+      "id": "CLAR",
+      "name": "Clarity",
+      "url": "https://github.com/addyosmani/clarity",
+      "role": "Reader-centered prose and source fidelity"
+    }
+  ],
+  "capabilities": [
+    "End-to-end workflow",
+    "Domain physics and methods",
+    "Technical narrative and literature",
+    "Claim and evidence audit",
+    "AI-pattern and redundancy audit",
+    "Reader focus and clarity",
+    "Iterative review and revision",
+    "Source fidelity and privacy"
+  ],
+  "coverage": {
+    "ARS": [3, 1, 2, 3, 1, 1, 3, 3],
+    "MER": [2, 3, 2, 3, 2, 2, 1, 3],
+    "RWL": [1, 2, 3, 3, 2, 3, 1, 3],
+    "RAL": [2, 1, 1, 3, 1, 1, 3, 3],
+    "AAW": [0, 0, 1, 1, 3, 2, 1, 3],
+    "CLAR": [0, 0, 2, 2, 2, 3, 1, 3]
+  },
+  "task_types": [
+    "Abstract",
+    "Literature synthesis",
+    "Equation explanation",
+    "Methods paragraph",
+    "Figure discussion",
+    "Proposal narrative",
+    "Reviewer response"
+  ],
+  "task_fit": {
+    "ARS": [2, 3, 1, 2, 1, 2, 3],
+    "MER": [2, 3, 3, 3, 3, 3, 2],
+    "RWL": [3, 3, 3, 3, 3, 2, 2],
+    "RAL": [1, 2, 2, 2, 2, 1, 3],
+    "AAW": [2, 1, 1, 1, 1, 1, 2],
+    "CLAR": [3, 2, 2, 2, 2, 2, 2]
+  },
+  "case_counts": {
+    "Abstract": 2,
+    "Literature synthesis": 2,
+    "Equation explanation": 2,
+    "Methods and assumptions": 1,
+    "Figure discussion": 2,
+    "Proposal narrative": 2,
+    "Technical title": 1
+  },
+  "source_tiers": {
+    "Published-paper candidates": 6,
+    "Restricted local candidates (not released)": 6,
+    "Public benchmark cases approved": 0,
+    "Blinded human scores collected": 0
+  }
+}

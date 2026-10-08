@@ -85,6 +85,8 @@ This seed is an example of the framework, not the framework itself. Other mentor
 
 The [Research-Quality Writing Benchmark](docs/research-quality-writing-benchmark.md) evaluates whether AI-assisted workflows improve technical communication without weakening scientific reasoning, evidence boundaries, or author responsibility. It is designed for transparent comparison of workflow configurations, not for claiming that a detector can identify AI authorship.
 
+See the [six-skill capability report](docs/rqwb-capability-report/README.md) for a documented-scope comparison, task-fit matrix, figure set, and the evidence still needed before making any performance claim.
+
 ## License
 
 This project is released under the MIT License.
