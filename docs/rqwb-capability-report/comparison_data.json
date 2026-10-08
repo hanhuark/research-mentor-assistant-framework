@@ -16,7 +16,7 @@
       "id": "MER",
       "name": "Mechanical Engineering Research",
       "url": "https://github.com/hanhuark/mechanical-engineering-research-skill/tree/main/skills/mechanical-engineering-research",
-      "role": "Domain coordinator and scientific-integrity gate"
+      "role": "Domain coordinator, composition layer, and scientific-integrity gate"
     },
     {
       "id": "RWL",
@@ -28,7 +28,7 @@
       "id": "RAL",
       "name": "Reviewer-Author Loop",
       "url": "https://github.com/hanhuark/reviewer-author-loop-skill",
-      "role": "Iterative critique, revision, and verification"
+      "role": "Specialist iterative critique, revision, and verification workflow; invoked by MER when needed"
     },
     {
       "id": "AAW",
@@ -55,7 +55,7 @@
   ],
   "coverage": {
     "ARS": [3, 1, 2, 3, 1, 1, 3, 3],
-    "MER": [2, 3, 2, 3, 2, 2, 1, 3],
+    "MER": [3, 3, 3, 3, 3, 3, 3, 3],
     "RWL": [1, 2, 3, 3, 2, 3, 1, 3],
     "RAL": [2, 1, 1, 3, 1, 1, 3, 3],
     "AAW": [0, 0, 1, 1, 3, 2, 1, 3],
@@ -72,7 +72,7 @@
   ],
   "task_fit": {
     "ARS": [2, 3, 1, 2, 1, 2, 3],
-    "MER": [2, 3, 3, 3, 3, 3, 2],
+    "MER": [3, 3, 3, 3, 3, 3, 3],
     "RWL": [3, 3, 3, 3, 3, 2, 2],
     "RAL": [1, 2, 2, 2, 2, 1, 3],
     "AAW": [2, 1, 1, 1, 1, 1, 2],

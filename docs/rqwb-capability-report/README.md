@@ -2,7 +2,11 @@
 
 ## Scope
 
-This public report compares six complementary skills by their documented intended functions. It is a benchmark-readiness artifact, not an outcome-performance evaluation. The 0-3 scores in the heatmaps represent the explicitness of instruction coverage. It contains no manuscript, proposal, student, reviewer, or source-packet content.
+This public report maps six complementary skills by their documented intended functions. It is a benchmark-readiness artifact, not an outcome-performance evaluation or a ranking. The 0-3 values in the heatmaps represent documented instruction coverage, not writing quality.
+
+The skills do not occupy the same architectural level. Mechanical Engineering Research (MER) is a domain coordinator: it selects specialist skills, including Research Writing and Literature (RWL) and Reviewer-Author Loop (RAL), while retaining the engineering evidence and integrity gates. RWL and RAL can also be used on their own for a focused task. A specialist can therefore have an equally explicit or narrower task instruction without being a stronger substitute for the coordinator. Evaluate workflow configurations, not isolated cells in these heatmaps.
+
+The report contains no manuscript, proposal, student, reviewer, or source-packet content.
 
 | Score | Meaning |
 | ---: | --- |
@@ -16,16 +20,16 @@ This public report compares six complementary skills by their documented intende
 | ID | Skill | Intended role | Appropriate claim now |
 | --- | --- | --- | --- |
 | ARS | Academic Research Skills | End-to-end academic workflow scaffold | It structures research-to-publication work and integrity checkpoints. |
-| MER | Mechanical Engineering Research | Domain coordinator and scientific-integrity gate | It brings physical assumptions, methods, evidence, and validity ranges into the workflow. |
+| MER | Mechanical Engineering Research | Domain coordinator, composition layer, and scientific-integrity gate | It routes to specialist writing and review workflows while bringing physical assumptions, methods, evidence, and validity ranges into the workflow. |
 | RWL | Research Writing and Literature | Technical narrative, literature, and argument layer | It directs literature synthesis, figure-led discussion, and technical-argument checks. |
-| RAL | Reviewer-Author Loop | Iterative critique, revision, and verification | It provides a reviewer, author, verifier, and re-review process. |
+| RAL | Reviewer-Author Loop | Specialist iterative critique, revision, and verification workflow | It provides a reviewer, author, verifier, and re-review process; MER invokes it when iterative peer-review work is needed. |
 | AAW | Avoid AI Writing | Pattern-aware, source-preserving edit | It identifies AI-associated patterns without treating them as authorship proof. |
 | CLAR | Clarity | Reader-centered prose and source fidelity | It focuses on what a reader can understand while preserving source-grounded meaning. |
 
 ## Figures
 
-1. `01_documented_capability_heatmap.png`: compares documented coverage across eight workflow capabilities.
-2. `02_intended_task_fit_heatmap.png`: maps documented task fit across seven benchmark genres.
+1. `01_documented_capability_heatmap.png`: maps documented coverage across eight workflow capabilities; it is not a ranking.
+2. `02_intended_task_fit_heatmap.png`: maps documented task fit across seven benchmark genres; MER coverage includes its documented routing to specialist skills.
 3. `03_case_design.png`: shows the 12-case benchmark design.
 4. `04_benchmark_readiness.png`: distinguishes candidate availability from actual evaluation evidence.
 5. `05_complementary_workflow_map.png`: explains why these tools should be composed rather than ranked as substitutes.
