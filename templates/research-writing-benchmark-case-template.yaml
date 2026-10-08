@@ -1,0 +1,30 @@
+case_id: RQWB-001
+title: Short descriptive title
+genre: equation_explanation
+audience: specialist_researcher
+source_tier: public
+rights_status: verified_for_benchmark_use
+task_brief: >
+  Explain the supplied equation to a technically trained reader. Preserve the
+  stated assumptions and do not introduce unsupported mechanisms or values.
+source_packet:
+  - source_id: S1
+    type: paper_or_dataset
+    location: public_url_or_private_local_identifier
+    permitted_use: benchmark_only
+reference_material:
+  gold_answer_status: protected
+  reviewer_notes_status: protected
+workflow_configurations:
+  - B0
+  - B5
+generation_controls:
+  model: record_exact_model_and_version
+  temperature: record_value
+  prompt_version: record_hash_or_path
+  source_access_boundary: no_gold_answer_access
+scoring:
+  raters_required: 2
+  blinded: true
+  rubric_version: RQWB-v1
+release_status: private_until_rights_and_deidentification_are_verified
